@@ -1,0 +1,8 @@
+# Don't track content of these folders
+.DS_Store
+*/.DS_Store
+*/.ipynb_checkpoints
+*/log/
+*/logs/
+.vscode/
+*/.vscode/
